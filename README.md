@@ -89,8 +89,5 @@ python script.py
 - Ensure YOLO model files are correctly placed.
 - Increase confidence threshold if false positives occur.
 
-**License**
-This project is open-source under the MIT License.
-
 **Author**
-Developed by Saahil A Vishwakarma and Vrashabha Nilajagi
+Developed by Saahil A Vishwakarma and Vrashabha Nilajagi.
