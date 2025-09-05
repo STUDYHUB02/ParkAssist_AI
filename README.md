@@ -93,4 +93,4 @@ python script.py
 This project is open-source under the MIT License.
 
 **Author**
-Developed by Saahil A Vishwakarma
+Developed by Saahil A Vishwakarma and Vrashabha Nilajagi
